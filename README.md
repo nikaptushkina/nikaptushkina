@@ -7,7 +7,7 @@ I’m a web developer focused on building simple, fast, and privacy-first online
   https://privyfiles.vercel.app
 
 ### 📫 Contact
-nika.ptushkina@gmail.com
+https://privyfiles.vercel.app/contact
 
 <!---
 nikaptushkina/nikaptushkina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
